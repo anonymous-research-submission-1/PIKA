@@ -1,0 +1,2 @@
+variant,mean_delta,sd_delta,ci_lo,ci_hi,resolved,wins_vs_pika,n_seeds,mean_iid_rmse,mean_ood_rmse,n_params,n_params_pika
+Residual MLP (no K),-0.039546219816587166,0.09000782974221101,-0.1185583087482643,0.01758237243348042,False,2,5,0.8050720814847951,0.8326244540491577,5580,5852

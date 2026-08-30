@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
+
+# Raw daily climate pulls are large and regenerable via scripts/1_fetch_climate.py
+data/era5_daily_*.csv
+data/era5_daily_*.parquet
